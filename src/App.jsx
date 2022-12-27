@@ -5,7 +5,7 @@ import movielist from './Movielist'
 
 const App=()=>(
     <>
-  <h1 className='heading_style'>Latest movies of 2022  </h1>
+  <h1 className='heading_style '>🎥 Latest movies of 2😊22 </h1>
   {movielist.map((val)=>{
     return(
       <Card
